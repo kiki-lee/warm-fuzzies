@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD///8PAAAA8C8iIv8AAADwIiIi8g8AAPAiIiIi/wAA8CIiIrv7DwDwIiKyu7v/APAvIru7u/sPAP8iu7u7uw/wLyK7u7v7D/AiEbG7u/8A8CIRIbv7DwDwIhEhIv8AAPAiIiLyDwAA8C8iIv8AAAAA////DwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p1"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD///8PAAAA8I+IiP8AAADwiIiI+A8AAPCIiIiI/wAA8IiIiJn5DwDwiIiYmZn/APCPiJmZmfkPAP+ImZmZmQ/wj4iZmZn5D/CIEZGZmf8A8IgRgZn5DwDwiBGBiP8AAPCIiIj4DwAA8I+IiP8AAAAA////DwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p2"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD///8PAAAA8E9ERP8AAADwRERE9A8AAPBERERE/wAA8ERERFX1DwDwRERUVVX/APBPRFVVVfUPAP9EVVVVVQ/wT0RVVVX1D/BEEVFVVf8A8EQRQVX1DwDwRBFBRP8AAPBERET0DwAA8E9ERP8AAAAA////DwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p3"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD///8PAAAA8H93d/8AAADwd3d39w8AAPB3d3d3/wAA8Hd3d2b2DwDwd3dnZmb/APB/d2ZmZvYPAP93ZmZmZg/wf3dmZmb2D/B3EWFmZv8A8HcRcWb2DwDwdxFxd/8AAPB3d3f3DwAA8H93d/8AAAAA////DwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "p4"
+    },
+    "image2": {
+        "data": "hwQeAB4AAADQ2wAAAAAAANDd3d3dAAAA0dsNAAAAAADd3d3d3d0AANHb3Q0AAADQ3d3d3d3dDQDR293d3QAA3d3d3d3dvQ0A0dvd3d3d3d3d3d3d3b3dAN3b3d3d3d3d3d3d3d3d2wDd3d3d3d3d3d3d3d3d3d0A3d3d3d3d3d3d3d3d3d3dAN3d3d3d3d3d3d3d3d3d3QDd3d3d3d3d3d3d3d3d3d0A3d3d3d3d3d3d3d3d3d3dAN3d3d3d3d3d3d3d3d3d3QDd3d3d3d3d3d3d3d3d3d0A3d3d3d3d3d3d3d3d3d3dAN3d3d3d3d3d3d3d3d3d3QDd3d3d3d3d3d3d3d3d3d0A3d3d3d3d3d3d3d3d3d3dAN3d3d3d3d3d3d3d3d3d3QDd3d3d3d3d3d3d3d3d3d0A3d3d3d3d3d3d3d3d3d3dAN3d3d3d3d3d3d3d3d3d3QDd3d3d3d3d3d3d3d3d3d0A3d3d3d3d3d3d3d3d3d3dAN3d3d3d3d3d3d3d3d3d3QDd3d3d3d3d3d3d3d3d3d0A3dvd3d3d3R3d3d3d3d3dANHb3d3dAADd0d3d3d3dDQDR290NAAAA0B3d3d3d3Q0A0dsNAAAAAADd3d3d3d0AANDbAAAAAAAA0N3d3d0AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "hug jar"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
